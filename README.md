@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manoranjan Mohapatra</h1>
 <h3 align="center">A passionate DevOps Professional.In my free time I make YouTube videos at https://www.youtube.com/@CloudDevOpsLab</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clouddevopslab&label=Profile%20views&color=0e75b6&style=flat" alt="clouddevopslab" /> </p>
-
 <p align="left"> <a href="https://twitter.com/clouddevopslab" target="blank"><img src="https://img.shields.io/twitter/follow/clouddevopslab?logo=twitter&style=for-the-badge" alt="clouddevopslab" /></a> </p>
 
 - 🔭 I’m currently working on **DevOps and DevSecOps Projects.**
